@@ -1,0 +1,3 @@
+Username : devenbhimani123_db_user
+Password : cPqmCJdsSbq2kd1N
+connection string : mongodb+srv://devenbhimani123_db_user:cPqmCJdsSbq2kd1N@cluster0.gnxwqli.mongodb.net/?appName=Cluster0
