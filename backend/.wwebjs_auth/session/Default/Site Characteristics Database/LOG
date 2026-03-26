@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+2026/03/25-01:10:49.733 4568 Reusing MANIFEST C:\Users\hp\Downloads\whatsapp-bulk-messenger-primary\whatsapp-bulk-messenger-primary\backend\.wwebjs_auth\session\Default\Site Characteristics Database/MANIFEST-000001
+2026/03/25-01:10:49.740 4568 Recovering log #3
+2026/03/25-01:10:49.740 4568 Reusing old log C:\Users\hp\Downloads\whatsapp-bulk-messenger-primary\whatsapp-bulk-messenger-primary\backend\.wwebjs_auth\session\Default\Site Characteristics Database/000003.log 
+=======
+2026/03/26-17:33:47.576 82d8 Creating DB C:\Users\Deven Bhimani\Downloads\WhatAppBulkMessage-main\WhatAppBulkMessage-main\backend\.wwebjs_auth\session\Default\Site Characteristics Database since it was missing.
+2026/03/26-17:33:47.724 82d8 Reusing MANIFEST C:\Users\Deven Bhimani\Downloads\WhatAppBulkMessage-main\WhatAppBulkMessage-main\backend\.wwebjs_auth\session\Default\Site Characteristics Database/MANIFEST-000001
+>>>>>>> master
